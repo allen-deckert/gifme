@@ -1,0 +1,54 @@
+{
+    "results": [{
+        "id": "15061321",
+        "title": "",
+        "h1_title": "So Excited Baby GIF",
+        "media": [{
+            "mp4": {
+                "preview": "https://media.tenor.com/images/1f03e13a275d1004002287351f92f442/tenor.png",
+                "dims": [
+                    640,
+                    320
+                ],
+                "size": 280937,
+                "url": "https://media.tenor.com/videos/edae6875ee217fe6e7ec808abf10f12a/mp4",
+                "duration": 1
+            },
+            "gif": {
+                "preview": "https://media.tenor.com/images/1f03e13a275d1004002287351f92f442/tenor.png",
+                "dims": [
+                    498,
+                    249
+                ],
+                "size": 1665947,
+                "url": "https://media.tenor.com/images/1a6e398331272fbd91c1f5b4d87d4418/tenor.gif"
+            },
+            "tinygif": {
+                "url": "https://media.tenor.com/images/a98886b4ee4d2e1afc156f5cfd02bed5/tenor.gif",
+                "preview": "https://media.tenor.com/images/1ca04a449b26e1f7d45682a79d2c8697/tenor.gif",
+                "dims": [
+                    220,
+                    110
+                ],
+                "size": 111321
+            }
+        }],
+        "bg_color": "",
+        "created": 1568690926.450563,
+        "itemurl": "https://tenor.com/view/so-excited-baby-cute-adorable-bath-gif-15061321",
+        "url": "https://tenor.com/bbmiH.gif",
+        "tags": [
+            "So Excited",
+            "baby",
+            "cute",
+            "adorable",
+            "bath"
+        ],
+        "shares": 0,
+        "hasaudio": false,
+        "hascaption": false,
+        "source_id": "",
+        "composite": null
+    }],
+    "next": "1"
+}

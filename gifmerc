@@ -1,0 +1,6 @@
+[api]
+email=gifme-bot@zulip-test.meyertool.com
+cert_bundle=/etc/ssl/certs/zulip.combined-chain.crt
+key=hXJQoN6Pschby7pfpHzVBlQOtXCsTkw6
+site=https://zulip-test.meyertool.com
+token=0ZAy0PiorvTeH1Itb1PUWIZ1rUizMV5T
